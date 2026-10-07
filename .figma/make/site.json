@@ -1,0 +1,10 @@
+{
+  "description": "Offers strategic pricing insights and resources from Ariel Baños to help businesses capture value, boost profitability, and access expert workshops and materials.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
